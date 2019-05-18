@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtLookUp.CreateGroupsPage"
+             NavigationPage.HasNavigationBar="False"
+             
+             >
+
+  <StackLayout>
+
+    
+   <Grid>
+      <BoxView x:Name="PeriodTitleBoxView" 
+               BackgroundColor = "#acaf82"
+               HorizontalOptions ="Fill"
+               HeightRequest ="50">
+        
+      </BoxView>
+     
+      <Label Text="Periods" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
+             Grid.Row ="0"
+             HorizontalOptions ="Center"
+             VerticalOptions ="Center"
+      />
+      
+    </Grid>
+    
+    <ListView x:Name="categories"  ItemSelected="OnCategorySelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell >
+                    <Label
+                        Text="{Binding Name}" TextColor="#764040"
+                        FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                    />
+
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        
+    </ListView>
+    
+  </StackLayout>
+  
+
+    
+</ContentPage>

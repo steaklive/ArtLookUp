@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtLookUp.WelcomePage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#acaf82">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+
+          <Label
+             Text="ARTLOOKUP" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="53" TextColor="#764040"
+             HorizontalOptions="Center" 
+             Margin ="0, 40, 0, 0"
+          />
+
+          <Image Source="titleimage.jpg" x:Name="titleImage" Aspect="AspectFit">            
+          </Image>
+
+          <BoxView HorizontalOptions="Center"  Margin="0,15,0,0" HeightRequest="3" WidthRequest="270" Color="#764040"/>
+          <BoxView HorizontalOptions="Center"  Margin="0,5,0,0" HeightRequest="3" WidthRequest="100" Color="#764040"/>
+
+
+          <Label
+                Text="A collection of painters and paintings in one place."
+                TextColor="Black"
+                FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23"
+                LineBreakMode="WordWrap" XAlign="Center"
+                />
+
+          <BoxView HorizontalOptions="Center"  Margin="0,5,0,0" HeightRequest="3" WidthRequest="100" Color="#764040"/>
+
+          <Button Pressed="OnExplorePressed" BackgroundColor="#764040" Margin="0,15,0,0" HorizontalOptions="Center" WidthRequest="170" HeightRequest="40" Text="Explore"  TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="20"/>
+          <Button  BackgroundColor="#764040" Margin="0,5,0,0" HorizontalOptions="Center" WidthRequest="170" HeightRequest="40" Text="Credits"  TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="20"/>
+
+          <BoxView HorizontalOptions="Center" Margin="0,15,0,0" HeightRequest="3" WidthRequest="270" Color="#764040"/>
+
+          <Label
+                Text="Developed by Gen Afanasev, 2019"
+                TextColor="#764040"
+                FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="13"
+                LineBreakMode="WordWrap" XAlign="Center"
+                Margin="0,5,0,0"
+                />
+
+
+
+
+          <!--Button Text="Ready!" Clicked="Button_Clicked"/-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtLookUp.PainterBiographyPage"
+             NavigationPage.HasNavigationBar="False"
+             Title="About"
+             BackgroundColor="#c6b77b">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <WebView x:Name="webviewBio" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
+                
+            </WebView>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

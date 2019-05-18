@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtLookUp.PainterDetailPage"
+             NavigationPage.HasNavigationBar="False"
+             Title="About"
+             BackgroundColor="#acaf82">
+
+    <StackLayout HorizontalOptions="Center">
+        <Label
+             Text="{Binding Name}" TextColor="Black" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="30"
+             HorizontalOptions="Center" 
+             Margin ="0, 10, 0, 0"
+          />
+
+        <BoxView VerticalOptions="Center" HeightRequest="1" WidthRequest="270" Color="#764040"/>
+
+        <Image Source="{Binding PortraitImagePath}" WidthRequest="160" HeightRequest="160"/>
+
+        <BoxView VerticalOptions="Center" HeightRequest="1" WidthRequest="270" Color="#764040"/>
+        <BoxView VerticalOptions="Center" HeightRequest="1" WidthRequest="100" Color="#764040"/>
+
+        <Label
+             Text="{Binding Years}" TextColor="#764040" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23"
+             HorizontalOptions="Center" 
+        />
+
+        <BoxView VerticalOptions="Center" HeightRequest="1" WidthRequest="100" Color="#764040"/>
+
+        <Label
+             Text="{Binding Location}" TextColor="#764040" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23"
+             HorizontalOptions="Center" 
+        />
+
+        <BoxView VerticalOptions="Center" HeightRequest="1" WidthRequest="100" Color="#764040"/>
+
+        <Frame HeightRequest="200" WidthRequest="200" BackgroundColor="Transparent" OutlineColor="#764040">
+            <Label
+                Text="At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime."
+                TextColor="Black"
+                FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="17"
+                LineBreakMode="WordWrap"
+                />
+        </Frame>
+
+        <Button Pressed="OpenArtworks" BackgroundColor="#764040" HeightRequest="35" Text="Artworks"  TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="18"/>
+        <Button Pressed="OpenBiography" BackgroundColor="#764040" HeightRequest="35" Text="Biography" TextColor="#c6b77b"  FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="18"/>
+    </StackLayout>
+
+       
+   
+    
+    <!--Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Name: Sandro Botticelli" TextColor="#764040" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23" Grid.Row="0" Grid.Column="0" VerticalOptions="Center"/>
+        <Label Text="Years: 1445-1510" TextColor="#764040" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23" Grid.Row="1" Grid.Column="0" VerticalOptions="Center"/>
+        <Label Text="Periods: Early Renaissance " TextColor="#764040" FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="23" Grid.Row="2" Grid.Column="0" VerticalOptions="Center"/>
+
+        <Image Source="botticelli.jpg" Grid.RowSpan="3" Grid.Column="1"/>
+
+    </-->
+</ContentPage>

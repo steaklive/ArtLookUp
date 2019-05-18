@@ -1,0 +1,40 @@
+﻿{
+  "periods": 
+  [
+    {
+      "name": "Italian Renaissance",
+      "collection": [
+        {
+          "name": "Botticelli",
+          "file": "data_botticelli.json"
+        },
+        {
+          "name": "Leonardo da Vinci",
+          "file": "data_leonardo_da_vinci.json"
+        },
+        {
+          "name": "Michelangelo",
+          "file": "data_michelangelo.json"
+        },
+        {
+          "name": "Raphael",
+          "file": "data_raphael.json"
+        }
+      ]
+    },
+
+    {
+      "name": "Mannerism",
+      "collection": [
+        {
+          "name": "Bronzino",
+          "file": "data_bronzino.json"
+        },
+        {
+          "name": "Veronese",
+          "file": "data_veronese.json"
+        }
+      ]
+    }
+  ]
+}

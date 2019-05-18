@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtLookUp.PainterArtworksPage"
+             NavigationPage.HasNavigationBar="False"
+             >
+    
+    <ContentPage.Content>
+
+        <StackLayout>
+            <Grid>
+                <BoxView x:Name="PeriodTitleBoxView" 
+                   BackgroundColor = "#acaf82"
+                   HorizontalOptions ="Fill"
+                   HeightRequest ="50">
+
+                </BoxView>
+
+                <Label Text="Artworks" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
+                 Grid.Row ="0"
+                 HorizontalOptions ="Center"
+                 VerticalOptions ="Center"
+                />
+
+             </Grid>
+
+            <ListView x:Name="artworks" ItemSelected="OnPaintingSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+
+                            <Grid RowSpacing="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"/>
+                                    <RowDefinition Height="25"/>
+                                </Grid.RowDefinitions>
+                                
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="100"/>
+
+                                </Grid.ColumnDefinitions>
+
+                                <Label YAlign="Center" Margin="10, 0, 0, 0" Grid.Row="0" Grid.Column="0" Text="{Binding Name}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="18"  TextColor="#764040" ></Label>
+                                <Label YAlign="Start" Margin="10, -5, 0, 0" Grid.Row="1" Grid.Column="0" Text="{Binding Year}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="16"  TextColor="Black" ></Label>
+                                <Image Grid.Row="0" Grid.RowSpan="2" Grid.Column="1" Source="{Binding PaintingImageFile}" Aspect="AspectFit"/>
+
+                            </Grid>
+                            
+
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        </StackLayout>
+
+
+    </ContentPage.Content>
+</ContentPage>
