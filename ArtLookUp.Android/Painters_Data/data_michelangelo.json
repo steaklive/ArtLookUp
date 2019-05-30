@@ -1,21 +1,26 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
-  "location": "Florence",
-  "shortinfolink": "temp.html",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "name": "Michelangelo",
+  "years": "1475-1564",
+  "location": "Florence, Rome",
+  "shortinfolink": "Moving between Rome and Florence he undertook many architectural, painting and sculptural projects. He was a multi-talented Renaissance man and his work has gone down in history as some of the greatest ever produced.",
+  "biolink": "biography_michelangelo.html",
+  "image": "portrait_michelangelo.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "The Creation of Adam",
+      "year": "1512",
+      "picture": "painting_creation_of_adam.jpg"
     },
     {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
+      "name": "The Last Judgement",
+      "year": "1535-1541",
+      "picture": "painting_last_judgement_michelangelo.jpg"
+    },
+    {
+      "name": "The Torment of Saint Anthony",
+      "year": "1487-1488",
+      "picture": "painting_torment_of_saint_anthony_michelangelo.jpg"
     }
   ]
 }

@@ -70,7 +70,7 @@ namespace ArtLookUp
                         Name = dataPainter.name,
                         Years = dataPainter.years,
                         Location = dataPainter.location,
-                        ShortInformationLink = dataPainter.shortinfolink,
+                        ShortInformation = dataPainter.shortinfolink,
                         BiographyLink = dataPainter.biolink,
                         PortraitImagePath = dataPainter.image,
                         Paintings = painterArtworks

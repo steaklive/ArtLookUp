@@ -34,7 +34,8 @@ namespace ArtLookUp
                 Name = painter.Name,
                 Years = painter.Years,
                 Location = painter.Location,
-                PortraitImagePath = painter.PortraitImagePath
+                PortraitImagePath = painter.PortraitImagePath,
+                ShortInformation = painter.ShortInformation
             };
         }
 

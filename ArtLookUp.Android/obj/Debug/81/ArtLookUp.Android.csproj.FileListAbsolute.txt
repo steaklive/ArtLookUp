@@ -10,7 +10,6 @@ C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLook
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\MainPage.xaml.g.cs
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\WelcomePage.xaml.g.cs
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\CreateGroupsPage.xaml.g.cs
-C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\CategoryDetailPage.xaml.g.cs
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\CreatePaintersPage.xaml.g.cs
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\PainterDetailPage.xaml.g.cs
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\PainterBiographyPage.xaml.g.cs
@@ -112,3 +111,15 @@ C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLook
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_annunciation_da_vinci.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_bacchus_da_vinci.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_lady_with_an_ermine.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_last_supper.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_mona_lisa.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_st_john_the_baptist_da_vinci.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\portrait_da_vinci.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_last_judgement_michelangelo.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_creation_of_adam.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\painting_torment_of_saint_anthony_michelangelo.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\portrait_michelangelo.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Debug\81\res\drawable\background.jpg

@@ -3,20 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArtLookUp.CreatePaintersPage"
              NavigationPage.HasNavigationBar="False"
-             Title="Choose Painter"
+             BackgroundImage="background.jpg"
              >
  
     <StackLayout>
 
         <Grid>
             <BoxView x:Name="PeriodTitleBoxView" 
-               BackgroundColor = "#acaf82"
+               BackgroundColor = "#764040"
                HorizontalOptions ="Fill"
                HeightRequest ="50">
 
             </BoxView>
 
-            <Label Text="Painters" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
+            <Label Text="Painters" TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
                 Grid.Row ="0"
                 HorizontalOptions ="Center"
                 VerticalOptions ="Center"

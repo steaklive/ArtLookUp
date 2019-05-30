@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;using System.Reflection;
+using System.Threading.Tasks;
+using System.Reflection;
 using System.IO;
 
 using Xamarin.Forms;
@@ -23,5 +24,19 @@ namespace ArtLookUp
             };
 
 		}
-	}
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            MessagingCenter.Send(this, "unlockLandscape");
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            MessagingCenter.Send(this, "lockLandscape");
+        }
+    }
+
+
 }

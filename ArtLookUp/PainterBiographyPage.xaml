@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArtLookUp.PainterBiographyPage"
              NavigationPage.HasNavigationBar="False"
-             Title="About"
-             BackgroundColor="#c6b77b">
+             BackgroundColor="#764040"
+             >
     
     <ContentPage.Content>
         <StackLayout>

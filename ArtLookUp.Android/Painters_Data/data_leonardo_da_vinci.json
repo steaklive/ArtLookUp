@@ -1,21 +1,41 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
+  "name": "Leonardo da Vinci",
+  "years": "1452-1519",
   "location": "Florence",
-  "shortinfolink": "temp.html",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "shortinfolink": "Leonardo was the first Renaissance artist to use ‘real’ people for his Biblical scenes. His apostles, angels, and Madonnas were often based on people from his immediate surroundings. Real people with real emotions. ",
+  "biolink": "biography_da_vinci.html",
+  "image": "portrait_da_vinci.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "Annunciation",
+      "year": "1472-1475",
+      "picture": "painting_annunciation_da_vinci.jpg"
     },
     {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
+      "name": "Bacchus",
+      "year": "1510-1515",
+      "picture": "painting_bacchus_da_vinci.jpg"
+    },
+    {
+      "name": "Lady with an Ermine",
+      "year": "1489-1490",
+      "picture": "painting_lady_with_an_ermine.jpg"
+    },
+    {
+      "name": "The Last Supper",
+      "year": "1495-1498",
+      "picture": "painting_last_supper.jpg"
+    },
+    {
+      "name": "Mona Lisa",
+      "year": "1503",
+      "picture": "painting_mona_lisa.jpg"
+    },
+    {
+      "name": "St. John the Baptist",
+      "year": "1513",
+      "picture": "painting_st_john_the_baptist_da_vinci.jpg"
     }
   ]
 }

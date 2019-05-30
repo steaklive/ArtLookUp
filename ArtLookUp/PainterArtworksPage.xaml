@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArtLookUp.PainterArtworksPage"
              NavigationPage.HasNavigationBar="False"
+             BackgroundImage="background.jpg"
              >
     
     <ContentPage.Content>
@@ -10,13 +11,13 @@
         <StackLayout>
             <Grid>
                 <BoxView x:Name="PeriodTitleBoxView" 
-                   BackgroundColor = "#acaf82"
+                   BackgroundColor = "#764040"
                    HorizontalOptions ="Fill"
                    HeightRequest ="50">
 
                 </BoxView>
 
-                <Label Text="Artworks" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
+                <Label Text="Artworks" TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="30"
                  Grid.Row ="0"
                  HorizontalOptions ="Center"
                  VerticalOptions ="Center"

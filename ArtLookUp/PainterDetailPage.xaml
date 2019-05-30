@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArtLookUp.PainterDetailPage"
              NavigationPage.HasNavigationBar="False"
-             Title="About"
-             BackgroundColor="#acaf82">
+             BackgroundImage="background.jpg"
+>
 
     <StackLayout HorizontalOptions="Center">
         <Label
@@ -36,12 +36,13 @@
 
         <Frame HeightRequest="200" WidthRequest="200" BackgroundColor="Transparent" OutlineColor="#764040">
             <Label
-                Text="At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime."
+                Text="{Binding ShortInformation}"
                 TextColor="Black"
                 FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="17"
                 LineBreakMode="WordWrap"
                 />
         </Frame>
+
 
         <Button Pressed="OpenArtworks" BackgroundColor="#764040" HeightRequest="35" Text="Artworks"  TextColor="#c6b77b" FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="18"/>
         <Button Pressed="OpenBiography" BackgroundColor="#764040" HeightRequest="35" Text="Biography" TextColor="#c6b77b"  FontFamily="elizabeth.regular.ttf#Elizabeth" FontSize="18"/>
