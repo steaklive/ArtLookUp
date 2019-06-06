@@ -60,6 +60,7 @@ namespace ArtLookUp
                             Name = painting.name,
                             Year = painting.year,
                             PaintingImageFile = painting.picture
+                            
                         }
                         
                     );

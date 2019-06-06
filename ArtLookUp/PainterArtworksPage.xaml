@@ -36,15 +36,9 @@
                                     <RowDefinition Height="25"/>
                                 </Grid.RowDefinitions>
                                 
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="*"/>
-                                    <ColumnDefinition Width="100"/>
 
-                                </Grid.ColumnDefinitions>
-
-                                <Label YAlign="Center" Margin="10, 0, 0, 0" Grid.Row="0" Grid.Column="0" Text="{Binding Name}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="18"  TextColor="#764040" ></Label>
-                                <Label YAlign="Start" Margin="10, -5, 0, 0" Grid.Row="1" Grid.Column="0" Text="{Binding Year}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="16"  TextColor="Black" ></Label>
-                                <Image Grid.Row="0" Grid.RowSpan="2" Grid.Column="1" Source="{Binding PaintingImageFile}" Aspect="AspectFit"/>
+                                <Label YAlign="Center" Margin="10, 0, 0, 0" Grid.Row="0"  Text="{Binding Name}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="18"  TextColor="#764040" ></Label>
+                                <Label YAlign="Start" Margin="10, -5, 0, 0" Grid.Row="1"  Text="{Binding Year}"  FontFamily="FogtwoNo5.ttf#FogtwoNo5" FontSize="16"  TextColor="Black" ></Label>
 
                             </Grid>
                             

@@ -4428,8 +4428,8 @@ namespace ArtLookUp.Droid
 			// aapt resource value: 0x7F090077
 			public const int ic_group_expand_15 = 2131296375;
 			
-			// aapt resource value: 0x7F010020
-			public const int ic_launcher = 2130772000;
+			// aapt resource value: 0x7F010032
+			public const int ic_launcher = 2130772018;
 			
 			// aapt resource value: 0x7F090078
 			public const int ic_media_pause_dark = 2131296376;
@@ -4966,43 +4966,79 @@ namespace ArtLookUp.Droid
 			public const int painting_creation_of_adam = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int painting_lady_with_an_ermine = 2130771975;
+			public const int painting_disputation_of_the_holy_sacrament = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int painting_last_judgement_michelangelo = 2130771976;
+			public const int painting_lady_with_an_ermine = 2130771976;
 			
 			// aapt resource value: 0x7F010009
-			public const int painting_last_supper = 2130771977;
+			public const int painting_last_judgement_michelangelo = 2130771977;
 			
 			// aapt resource value: 0x7F010010
-			public const int painting_mona_lisa = 2130771984;
+			public const int painting_last_supper = 2130771984;
 			
 			// aapt resource value: 0x7F010011
-			public const int painting_portrait_of_a_young_woman_botticelli = 2130771985;
+			public const int painting_librarian = 2130771985;
 			
 			// aapt resource value: 0x7F010012
-			public const int painting_primavera = 2130771986;
+			public const int painting_marriage_of_the_virgin = 2130771986;
 			
 			// aapt resource value: 0x7F010013
-			public const int painting_st_john_the_baptist_da_vinci = 2130771987;
+			public const int painting_mona_lisa = 2130771987;
 			
 			// aapt resource value: 0x7F010014
-			public const int painting_torment_of_saint_anthony_michelangelo = 2130771988;
+			public const int painting_portrait_of_a_young_woman_botticelli = 2130771988;
 			
 			// aapt resource value: 0x7F010015
-			public const int painting_venus_and_mars = 2130771989;
+			public const int painting_primavera = 2130771989;
 			
 			// aapt resource value: 0x7F010016
-			public const int portrait_botticelli = 2130771990;
+			public const int painting_school_of_athens = 2130771990;
 			
 			// aapt resource value: 0x7F010017
-			public const int portrait_da_vinci = 2130771991;
+			public const int painting_sistine_madonna = 2130771991;
 			
 			// aapt resource value: 0x7F010018
-			public const int portrait_michelangelo = 2130771992;
+			public const int painting_st_john_the_baptist_da_vinci = 2130771992;
 			
 			// aapt resource value: 0x7F010019
-			public const int titleimage = 2130771993;
+			public const int painting_summer_arcimboldo = 2130771993;
+			
+			// aapt resource value: 0x7F010020
+			public const int painting_the_deposition = 2130772000;
+			
+			// aapt resource value: 0x7F010021
+			public const int painting_three_graces = 2130772001;
+			
+			// aapt resource value: 0x7F010022
+			public const int painting_torment_of_saint_anthony_michelangelo = 2130772002;
+			
+			// aapt resource value: 0x7F010023
+			public const int painting_transfiguration = 2130772003;
+			
+			// aapt resource value: 0x7F010024
+			public const int painting_venus_and_mars = 2130772004;
+			
+			// aapt resource value: 0x7F010025
+			public const int painting_vertumnus = 2130772005;
+			
+			// aapt resource value: 0x7F010026
+			public const int portrait_arcimboldo = 2130772006;
+			
+			// aapt resource value: 0x7F010027
+			public const int portrait_botticelli = 2130772007;
+			
+			// aapt resource value: 0x7F010028
+			public const int portrait_da_vinci = 2130772008;
+			
+			// aapt resource value: 0x7F010029
+			public const int portrait_michelangelo = 2130772009;
+			
+			// aapt resource value: 0x7F010030
+			public const int portrait_raphael = 2130772016;
+			
+			// aapt resource value: 0x7F010031
+			public const int titleimage = 2130772017;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;

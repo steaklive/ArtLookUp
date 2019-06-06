@@ -1,0 +1,26 @@
+﻿{
+  "name": "Giuseppe Arcimboldo",
+  "years": "1526-1593",
+  "location": "Milan",
+  "shortinfolink": "The bizarre works of Arcimboldo, especially his multiple images, were rediscovered in the early 20th century by Surrealist artists like Salvador Dali. The \"The Arcimboldo Effect\" exhibition at the Palazzo Grassi in Venice (1987) included numerous 'double meaning' paintings.",
+  "biolink": "biography_arcimboldo.html",
+  "image": "portrait_arcimboldo.jpg",
+
+  "artworks": [
+    {
+      "name": "The Librarian",
+      "year": "1566",
+      "picture": "painting_librarian.jpg"
+    },
+    {
+      "name": "Summer",
+      "year": "1563",
+      "picture": "painting_summer_arcimboldo.jpg"
+    },
+    {
+      "name": "Vertumnus",
+      "year": "1590-1591",
+      "picture": "painting_vertumnus.jpg"
+    }
+  ]
+}

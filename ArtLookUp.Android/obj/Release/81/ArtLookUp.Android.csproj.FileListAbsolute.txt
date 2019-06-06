@@ -119,5 +119,17 @@ C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLook
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_disputation_of_the_holy_sacrament.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_marriage_of_the_virgin.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_school_of_athens.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_sistine_madonna.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_the_deposition.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_three_graces.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_transfiguration.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\portrait_raphael.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\portrait_arcimboldo.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_librarian.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_vertumnus.jpg
+C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\res\drawable\painting_summer_arcimboldo.jpg
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\bin\Release\ArtLookUp.Android.dll
 C:\Users\Gen\Documents\App Development\Xamarin Forms\ArtLookUp\ArtLookUp\ArtLookUp.Android\obj\Release\81\linksrc\ArtLookUp.Android.dll.mdb

@@ -76,6 +76,10 @@
     <EmbeddedResource Include="Painters_Data\data_michelangelo.json" />
     <EmbeddedResource Include="Painters_Data\data_raphael.json" />
     <EmbeddedResource Include="Painters_Data\data_veronese.json" />
+    <EmbeddedResource Include="Painters_Data\data_arcimboldo.json" />
+    <EmbeddedResource Include="Painters_Data\data_parmigianino.json" />
+    <EmbeddedResource Include="Painters_Data\data_tintoretto.json" />
+    <EmbeddedResource Include="Painters_Data\data_titian.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
@@ -181,6 +185,48 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_disputation_of_the_holy_sacrament.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_marriage_of_the_virgin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_school_of_athens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_sistine_madonna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_the_deposition.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_three_graces.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_transfiguration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_raphael.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_raphael.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_arcimboldo.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_arcimboldo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_librarian.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_vertumnus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_summer_arcimboldo.jpg" />
   </ItemGroup>
   <Import Project="..\ArtLookUp\MyExpenZ.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

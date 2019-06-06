@@ -1,21 +1,47 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
-  "location": "Florence",
-  "shortinfolink": "temp.html",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "name": "Raphael",
+  "years": "1483-1520",
+  "location": "Florence, Rome",
+  "shortinfolink": "Raphael painted and designed many astonishing pieces of work inside the Vatican and was a master at using depth and perspective, along light and shadow - the cornerstones of modern day art. Throughout his short life, Raphael would make some of the most awe-inspiring, beautiful and influential works of the Italian Renaissance.",
+  "biolink": "biography_raphael.html",
+  "image": "portrait_raphael.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "The Deposition",
+      "year": "1507",
+      "picture": "painting_the_deposition.jpg"
     },
     {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
+      "name": "Disputation of the Holy Sacrament",
+      "year": "1509-1510",
+      "picture": "painting_disputation_of_the_holy_sacrament.jpg"
+    },
+    {
+      "name": "The Marriage of the Virgin",
+      "year": "1504",
+      "picture": "painting_marriage_of_the_virgin.jpg"
+    },
+    {
+      "name": "Three Graces",
+      "year": "1505",
+      "picture": "painting_three_graces.jpg"
+    },
+    {
+      "name": "Transfiguration",
+      "year": "1516-1520",
+      "picture": "painting_transfiguration.jpg"
+    },
+    {
+      "name": "The Sistine Madonna",
+      "year": "1512",
+      "picture": "painting_sistine_madonna.jpg"
+    },
+    {
+      "name": "The School of Athens",
+      "year": "1509-1511",
+      "picture": "painting_school_of_athens.jpg"
     }
+
   ]
 }

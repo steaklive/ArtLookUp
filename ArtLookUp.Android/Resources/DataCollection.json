@@ -1,11 +1,14 @@
-﻿{
-  "periods": 
-  [
+﻿// Made for "ArtLookUp" by Gen Afanasev
+
+{
+  "periods": [
+
+    //Italian Renaissance
     {
       "name": "Italian Renaissance",
       "collection": [
         {
-          "name": "Botticelli",
+          "name": "Sandro Botticelli",
           "file": "data_botticelli.json"
         },
         {
@@ -23,18 +26,144 @@
       ]
     },
 
+    //Northern Renaissance
+    {
+      "name": "Northern Renaissance",
+      "collection": [
+        {
+          "name": "Hieronymus Bosch",
+          "file": "data_bosch.json"
+        },
+        {
+          "name": "Pieter Bruegel the Elder",
+          "file": "data_pieter_bruegel_the_elder.json"
+        },
+        {
+          "name": "Albrecht Durer",
+          "file": "data_durer.json"
+        },
+        {
+          "name": "Jan van Eyck",
+          "file": "data_jan_van_eyck.json"
+        }
+      ]
+    },
+
+    //Mannerism
     {
       "name": "Mannerism",
       "collection": [
+        {
+          "name": "Giuseppe Arcimboldo",
+          "file": "data_arcimboldo.json"
+        }/*,
         {
           "name": "Bronzino",
           "file": "data_bronzino.json"
         },
         {
-          "name": "Veronese",
+          "name": "Parmigianino",
+          "file": "data_parmigianino.json"
+        },
+        {
+          "name": "Tintoretto",
+          "file": "data_tintoretto.json"
+        },
+        {
+          "name": "Titian",
+          "file": "data_titian.json"
+        },
+        {
+          "name": "Paolo Veronese",
           "file": "data_veronese.json"
+        }*/
+      ]
+    },
+
+    //Dutch Baroque
+    {
+      "name": "Dutch Baroque",
+      "collection": [
+        {
+          "name": "Frans Hals",
+          "file": "data_hals.json"
+        },
+        {
+          "name": "Judith Leyster",
+          "file": "data_leyster.json"
+        },
+        {
+          "name": "Johannes Vermeer",
+          "file": "data_vermeer.json"
+        },
+        {
+          "name": "Jan Steen",
+          "file": "data_steen.json"
+        }
+      ]
+    },
+
+    //Flemish Baroque
+    {
+      "name": "Flemish Baroque",
+      "collection": [
+        {
+          "name": "Jan Brueghel the Elder",
+          "file": "data_jan_brueghel.json"
+        },
+        {
+          "name": "Anthony van Dyck",
+          "file": "data_dyck.json"
+        },
+        {
+          "name": "Peter Paul Rubens",
+          "file": "data_rubens.json"
+        }
+      ]
+    },
+
+    //French Baroque
+    {
+      "name": "French Baroque",
+      "collection": [
+        {
+          "name": "Nicolas Poussin",
+          "file": "data_poussin.json"
+        },
+        {
+          "name": "Simon Vouet",
+          "file": "data_vouet.json"
+        }
+      ]
+    },
+
+    //Italian Baroque
+    {
+      "name": "Italian Baroque",
+      "collection": [
+        {
+          "name": "Caravaggio",
+          "file": "data_caravaggio.json"
+        },
+        {
+          "name": "Artemisia Gentileschi",
+          "file": "data_artemisia_gentileschi.json"
+        }
+      ]
+    },
+
+    //Spanish Baroque
+    {
+      "name": "Spanish Baroque",
+      "collection": [
+        {
+          "name": "Diego Velazquez",
+          "file": "data_velazquez.json"
         }
       ]
     }
+
+
+
   ]
 }

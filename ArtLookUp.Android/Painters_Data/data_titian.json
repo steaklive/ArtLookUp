@@ -1,0 +1,31 @@
+﻿{
+  "name": "Sandro Botticelli",
+  "years": "1445-1510",
+  "location": "Florence",
+  "shortinfolink": "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime.",
+  "biolink": "biography_botticelli.html",
+  "image": "portrait_botticelli.jpg",
+
+  "artworks": [
+    {
+      "name": "The Birth of Venus",
+      "year": "1485-1486",
+      "picture": "painting_birth_of_venus.jpg"
+    },
+    {
+      "name": "Portrait of a Young Woman",
+      "year": "1480-1485",
+      "picture": "painting_portrait_of_a_young_woman_botticelli.jpg"
+    },
+    {
+      "name": "Primavera",
+      "year": "1477-1482",
+      "picture": "painting_primavera.jpg"
+    },
+    {
+      "name": "Venus and Mars",
+      "year": "1483",
+      "picture": "painting_venus_and_mars.jpg"
+    }
+  ]
+}
