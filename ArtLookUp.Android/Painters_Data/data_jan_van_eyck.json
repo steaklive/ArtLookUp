@@ -1,0 +1,21 @@
+﻿{
+  "name": "Jan van Eyck",
+  "years": "1390-1441",
+  "location": "Bruges",
+  "shortinfolink": "Van Eyck's rich colors stand out and engage the viewer. The use of impasto allowed van Eyck to achieve different palettes of color and offer very subtle changes in shading that defined the object.",
+  "biolink": "biography_jan_van_eyck.html",
+  "image": "portrait_jan_van_eyck.jpg",
+
+  "artworks": [
+    {
+      "name": "Arnolfini Portrait",
+      "year": "1434",
+      "picture": "painting_arnolfini_portrait.jpg"
+    },
+    {
+      "name": "Madonna of Chancellor Rolin",
+      "year": "1435",
+      "picture": "painting_madonna_of_chancellor_rolin.jpg"
+    }
+  ]
+}

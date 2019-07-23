@@ -1,0 +1,46 @@
+﻿{
+  "name": "Johannes Vermeer",
+  "years": "1632-1675",
+  "location": "Delft",
+  "shortinfolink": "Vermeer's subject matter was very unique in that he was able to create the most thought-provoking images from the most mundane moments of daily life. His skill and ability made him a leader and revolutionary of the Baroque era.",
+  "biolink": "biography_vermeer.html",
+  "image": "portrait_vermeer.jpg",
+
+  "artworks": [
+    {
+      "name": "The Art of Painting",
+      "year": "1666",
+      "picture": "painting_art_of_painting.jpg"
+    },
+    {
+      "name": "Girl with a Pearl Earring",
+      "year": "1665",
+      "picture": "painting_girl_with_a_pearl_earring.jpg"
+    },
+    {
+      "name": "The Little Street",
+      "year": "1657-1658",
+      "picture": "painting_little_street.jpg"
+    },
+    {
+      "name": "The Milkmaid",
+      "year": "1657-1658",
+      "picture": "painting_milkmaid.jpg"
+    },
+    {
+      "name": "The Music Lesson",
+      "year": "1662-1665",
+      "picture": "painting_music_lesson.jpg"
+    },
+    {
+      "name": "View of Delft",
+      "year": "1661",
+      "picture": "painting_view_of_delft.jpg"
+    },
+    {
+      "name": "Woman Holding a Balance",
+      "year": "1662-1663",
+      "picture": "painting_woman_holding_a_balance.jpg"
+    }
+  ]
+}

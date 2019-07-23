@@ -1,0 +1,22 @@
+﻿{
+  "name": "Albrecht Durer",
+  "years": "1471-1528",
+  "location": "Nuremberg",
+  "shortinfolink": "Albrecht Durer is widely regarded as the greatest Renaissance artist to come from Germany and is remembered as a valued printmaker and theorist as well as a painter.",
+  "biolink": "biography_durer.html",
+  "image": "portrait_durer.jpg",
+
+  "artworks": [
+    {
+      "name": "Portrait of a Venetian Woman",
+      "year": "1505",
+      "picture": "painting_portrait_of_a_venetian_woman.jpg"
+    },
+    {
+      "name": "Self-Portrait",
+      "year": "1500",
+      "picture": "painting_self_portrait_durer.jpg"
+    }
+
+  ]
+}

@@ -1,31 +1,21 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
-  "location": "Florence",
-  "shortinfolink": "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime.",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "name": "Parmigianino",
+  "years": "1503-1540",
+  "location": "Parma",
+  "shortinfolink": "Girolamo Francesco Maria Mazzola, known throughout his artistic career as Parmigianino (a nickname meaning 'the little one from Parma'), was one of the Italian Renaissance's great geniuses. He was one of the first artists to develop the elegant and sophisticated version of Mannerist style.",
+  "biolink": "biography_parmigianino.html",
+  "image": "portrait_parmigianino.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "Madonna with the Long Neck",
+      "year": "1534-1535",
+      "picture": "painting_madonna_with_the_long_neck.jpg"
     },
     {
-      "name": "Portrait of a Young Woman",
-      "year": "1480-1485",
-      "picture": "painting_portrait_of_a_young_woman_botticelli.jpg"
-    },
-    {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
-    },
-    {
-      "name": "Venus and Mars",
-      "year": "1483",
-      "picture": "painting_venus_and_mars.jpg"
+      "name": "The Mystic Marriage of Saint Catherine",
+      "year": "1527-1531",
+      "picture": "painting_mystic_marriage_of_saint_catherine.jpg"
     }
   ]
 }

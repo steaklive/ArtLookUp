@@ -1,0 +1,21 @@
+﻿{
+  "name": "Hieronymus Bosch",
+  "years": "1450-1516",
+  "location": "'s-Hertogenbosch",
+  "shortinfolink": "Hieronymus Bosch was an Early Netherlandish artist who dedicated his life to producing works that broke away from traditional Flemish painting. His work used vivid imagery to depict moral and religious ideas and stories, and he set himself apart from his contemporaries with the disturbing detail of his panel pictures.",
+  "biolink": "biography_bosch.html",
+  "image": "portrait_bosch.jpg",
+
+  "artworks": [
+    {
+      "name": "The Garden of Earthly Delights",
+      "year": "1503-1515",
+      "picture": "painting_garden_of_earthly_delights.jpg"
+    },
+    {
+      "name": "St. John the Baptist in the Wilderness",
+      "year": "1499",
+      "picture": "painting_st_john_the_baptist_in_the_wilderness.jpg"
+    }
+  ]
+}

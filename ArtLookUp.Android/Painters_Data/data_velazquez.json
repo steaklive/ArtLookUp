@@ -1,0 +1,32 @@
+﻿{
+  "name": "Diego Velazquez",
+  "years": "1599-1660",
+  "location": "Madrid",
+  "shortinfolink": "Diego Velázquez was hailed a father of the Spanish school of art and is one of the greatest artists that ever lived. Although influenced by the Italian schools and his peers he developed his own principles of art and his technique and unique style earned him a legion of fans and followers.",
+
+  "biolink": "biography_velazquez.html",
+  "image": "portrait_velazquez.jpg",
+
+  "artworks": [
+    {
+      "name": "Las Meninas",
+      "year": "1656",
+      "picture": "painting_las_meninas.jpg"
+    },
+    {
+      "name": "Mars Resting",
+      "year": "1640",
+      "picture": "painting_mars_resting.jpg"
+    },
+    {
+      "name": "Portrait of Juan de Pareja",
+      "year": "1650",
+      "picture": "painting_portrait_of_juan_de_pareja.jpg"
+    },
+    {
+      "name": "Rokeby Venus",
+      "year": "1647",
+      "picture": "painting_rokeby_venus.jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "name": "Rembrandt van Rijn",
+  "years": "1606-1669",
+  "location": "Amsterdam",
+  "shortinfolink": "Rembrandt was renowned for his outstanding ability to not only depict very natural, realistic human figures but even more importantly, to portray deep human feelings, imperfections and morality.",
+  "biolink": "biography_rembrandt.html",
+  "image": "portrait_rembrandt.jpg",
+
+  "artworks": [
+    {
+      "name": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "year": "1632",
+      "picture": "painting_anatomy_lesson_of_dr_nicolaes_tulp.jpg"
+    },
+    {
+      "name": "Andromeda Chained to the Rocks",
+      "year": "1630",
+      "picture": "painting_andromeda_chained_to_the_rocks.jpg"
+    },
+    {
+      "name": "Danae",
+      "year": "1636",
+      "picture": "painting_danae_rembrandt.jpg"
+    },
+    {
+      "name": "The Night Watch",
+      "year": "1642",
+      "picture": "painting_night_watch.jpg"
+    },
+    {
+      "name": "The Return of the Prodigal Son",
+      "year": "1663-1669",
+      "picture": "painting_return_of_the_prodigal_son.jpg"
+    }
+  ]
+}

@@ -1,31 +1,51 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
-  "location": "Florence",
-  "shortinfolink": "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime.",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "name": "Titian",
+  "years": "1488-1576",
+  "location": "Venice",
+  "shortinfolink": "Titian's style is marked by an uncanny attention to color and light. He is even believed to have said that good painters really only need three colors: black, white and red.",
+  "biolink": "biography_titian.html",
+  "image": "portrait_titian.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "Assumption of the Virgin",
+      "year": "1516-1518",
+      "picture": "painting_assumption_of_the_virgin.jpg"
     },
     {
-      "name": "Portrait of a Young Woman",
-      "year": "1480-1485",
-      "picture": "painting_portrait_of_a_young_woman_botticelli.jpg"
+      "name": "Bacchus and Ariadne",
+      "year": "1520-1523",
+      "picture": "painting_bacchus_and_ariadne.jpg"
     },
     {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
+      "name": "Danae",
+      "year": "1544-1546",
+      "picture": "painting_danae_titian.jpg"
     },
     {
-      "name": "Venus and Mars",
-      "year": "1483",
-      "picture": "painting_venus_and_mars.jpg"
+      "name": "Diana and Actaeon",
+      "year": "1556-1559",
+      "picture": "painting_diana_and_actaeon.jpg"
+    },
+    {
+      "name": "Pesaro Madonna",
+      "year": "1519-1526",
+      "picture": "painting_pesaro_madonna.jpg"
+    },
+    {
+      "name": "The Rape of Europa",
+      "year": "1560-1562",
+      "picture": "painting_rape_of_europa.jpg"
+    },
+    {
+      "name": "Sacred and Profane Love",
+      "year": "1514",
+      "picture": "painting_sacred_and_profane_love.jpg"
+    },
+    {
+      "name": "Venus of Urbino",
+      "year": "1538",
+      "picture": "painting_venus_of_urbino.jpg"
     }
   ]
 }

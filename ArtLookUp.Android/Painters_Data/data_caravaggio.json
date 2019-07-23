@@ -1,0 +1,46 @@
+﻿{
+  "name": "Caravaggio",
+  "years": "1571-1610",
+  "location": "Milan",
+  "shortinfolink": "A prolific artist, Caravaggio worked quickly, using live models and using the end of his brush handle to score basic outlines of his work. His preference for working directly onto the canvas was alien to his peers and they accused him of idealizing his figures.",
+  "biolink": "biography_caravaggio.html",
+  "image": "portrait_caravaggio.jpg",
+
+  "artworks": [
+    {
+      "name": "Bacchus",
+      "year": "1595",
+      "picture": "painting_bacchus_caravaggio.jpg"
+    },
+    {
+      "name": "Boy Bitten by a Lizard",
+      "year": "1593-1594",
+      "picture": "painting_boy_bitten_by_a_lizard.jpg"
+    },
+    {
+      "name": "Boy with a Basket of Fruit",
+      "year": "1593",
+      "picture": "painting_boy_with_a_basket_of_fruit.jpg"
+    },
+    {
+      "name": "The Calling of St Matthew",
+      "year": "1599-1600",
+      "picture": "painting_calling_of_st_matthew.jpg"
+    },
+    {
+      "name": "The Entombment of Christ",
+      "year": "1602-1603",
+      "picture": "painting_entombment_of_christ.jpg"
+    },
+    {
+      "name": "Judith Beheading Holofernes",
+      "year": "1598-1599",
+      "picture": "painting_judith_beheading_holofernes_caravaggio.jpg"
+    },
+    {
+      "name": "Supper at Emmaus",
+      "year": "1606",
+      "picture": "painting_supper_at_emmaus.jpg"
+    }
+  ]
+}

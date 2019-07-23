@@ -1,21 +1,16 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
+  "name": "Agnolo Bronzino",
+  "years": "1503-1572",
   "location": "Florence",
-  "shortinfolink": "temp.html",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "shortinfolink": "Mannerist portraits by Agnolo Bronzino are distinguished by a still sophistication and superb attention to detail. Bronzino focused heavily on the clothing and materials featured in his works and this was often said to create a gulf between the subject and viewer.",
+  "biolink": "biography_bronzino.html",
+  "image": "portrait_bronzino.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
-    },
-    {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
+      "name": "Venus, Cupid, Folly and Time",
+      "year": "1545",
+      "picture": "painting_venus_cupid_folly_and_time.jpg"
     }
   ]
 }

@@ -1,31 +1,26 @@
 ﻿{
-  "name": "Sandro Botticelli",
-  "years": "1445-1510",
-  "location": "Florence",
-  "shortinfolink": "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime.",
-  "biolink": "biography_botticelli.html",
-  "image": "portrait_botticelli.jpg",
+  "name": "Tintoretto",
+  "years": "1518-1594",
+  "location": "Venice",
+  "shortinfolink": "Tintoretto was an Italian painter and a notable exponent of the Venetian school. The speed with which he painted, and the unprecedented boldness of his brushwork, were both admired and criticized by his contemporaries. For his phenomenal energy in painting he was termed Il Furioso.",
+  "biolink": "biography_tintoretto.html",
+  "image": "portrait_tintoretto.jpg",
 
   "artworks": [
     {
-      "name": "The Birth of Venus",
-      "year": "1485-1486",
-      "picture": "painting_birth_of_venus.jpg"
+      "name": "Christ washing the Feet of the Disciples",
+      "year": "1575-1580",
+      "picture": "painting_christ_washing_the_disciples_feet.jpg"
     },
     {
-      "name": "Portrait of a Young Woman",
-      "year": "1480-1485",
-      "picture": "painting_portrait_of_a_young_woman_botticelli.jpg"
+      "name": "Miracle of the Slave",
+      "year": "1548",
+      "picture": "painting_miracle_of_the_slave.jpg"
     },
     {
-      "name": "Primavera",
-      "year": "1477-1482",
-      "picture": "painting_primavera.jpg"
-    },
-    {
-      "name": "Venus and Mars",
-      "year": "1483",
-      "picture": "painting_venus_and_mars.jpg"
+      "name": "The Origin of the Milky Way",
+      "year": "1575",
+      "picture": "painting_origin_of_the_milky_way.jpg"
     }
   ]
 }

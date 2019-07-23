@@ -1,0 +1,26 @@
+﻿{
+  "name": "Pieter Bruegel the Elder",
+  "years": "1525-1569",
+  "location": "Brussels",
+  "shortinfolink": "As a result of his creative power, formed by his own expertise, his own impressions and his own experiences, Pieter Bruegel was to become one of the great poets in the portrayal of landscape, nature, and man.",
+  "biolink": "biography_p_bruegel.html",
+  "image": "portrait_p_bruegel.jpg",
+
+  "artworks": [
+    {
+      "name": "The Hunters in the Snow",
+      "year": "1565",
+      "picture": "painting_hunters_in_the_snow.jpg"
+    },
+    {
+      "name": "The Peasant Wedding",
+      "year": "1567",
+      "picture": "painting_peasant_wedding.jpg"
+    },
+    {
+      "name": "The Tower of Babel",
+      "year": "1563",
+      "picture": "painting_tower_of_babel.jpg"
+    }
+  ]
+}

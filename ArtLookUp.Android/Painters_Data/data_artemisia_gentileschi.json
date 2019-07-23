@@ -1,0 +1,21 @@
+﻿{
+  "name": "Artemisia Gentileschi",
+  "years": "1593-1653",
+  "location": "Rome",
+  "shortinfolink": "Artemisia Gentileschi's legacy has been controversial and complex. Although well-respected and well-known during her lifetime, after her death she was almost entirely omitted from art historical accounts of the period. This is partly because her style was often similar to that of her father and many of her works were mis-attributed to Orazio.",
+  "biolink": "biography_a_gentileschi.html",
+  "image": "portrait_a_gentileschi.jpg",
+
+  "artworks": [
+    {
+      "name": "Danae",
+      "year": "1612",
+      "picture": "painting_danae_gentileschi.jpg"
+    },
+    {
+      "name": "Judith Beheading Holofernes",
+      "year": "1620-1621",
+      "picture": "painting_judith_beheading_holofernes_a_gentileschi.jpg"
+    }
+  ]
+}

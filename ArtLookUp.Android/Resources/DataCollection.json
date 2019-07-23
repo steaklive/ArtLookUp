@@ -56,7 +56,7 @@
         {
           "name": "Giuseppe Arcimboldo",
           "file": "data_arcimboldo.json"
-        }/*,
+        },
         {
           "name": "Bronzino",
           "file": "data_bronzino.json"
@@ -76,7 +76,7 @@
         {
           "name": "Paolo Veronese",
           "file": "data_veronese.json"
-        }*/
+        }
       ]
     },
 
@@ -84,22 +84,26 @@
     {
       "name": "Dutch Baroque",
       "collection": [
+        //{
+        //  "name": "Frans Hals",
+        //  "file": "data_hals.json"
+        //},
+        //{
+        //  "name": "Judith Leyster",
+        //  "file": "data_leyster.json"
+        //},
         {
-          "name": "Frans Hals",
-          "file": "data_hals.json"
-        },
-        {
-          "name": "Judith Leyster",
-          "file": "data_leyster.json"
+          "name": "Rembrandt van Rijn",
+          "file": "data_rembrandt.json"
         },
         {
           "name": "Johannes Vermeer",
           "file": "data_vermeer.json"
-        },
-        {
-          "name": "Jan Steen",
-          "file": "data_steen.json"
         }
+        //{
+        //  "name": "Jan Steen",
+        //  "file": "data_steen.json"
+        //}
       ]
     },
 
@@ -107,14 +111,14 @@
     {
       "name": "Flemish Baroque",
       "collection": [
-        {
-          "name": "Jan Brueghel the Elder",
-          "file": "data_jan_brueghel.json"
-        },
-        {
-          "name": "Anthony van Dyck",
-          "file": "data_dyck.json"
-        },
+        //{
+        //  "name": "Jan Brueghel the Elder",
+        //  "file": "data_jan_brueghel.json"
+        //},
+        //{
+        //  "name": "Anthony van Dyck",
+        //  "file": "data_dyck.json"
+        //},
         {
           "name": "Peter Paul Rubens",
           "file": "data_rubens.json"
@@ -123,19 +127,19 @@
     },
 
     //French Baroque
-    {
-      "name": "French Baroque",
-      "collection": [
-        {
-          "name": "Nicolas Poussin",
-          "file": "data_poussin.json"
-        },
-        {
-          "name": "Simon Vouet",
-          "file": "data_vouet.json"
-        }
-      ]
-    },
+    //{
+    //  "name": "French Baroque",
+    //  "collection": [
+    //    {
+    //      "name": "Nicolas Poussin",
+    //      "file": "data_poussin.json"
+    //    },
+    //    {
+    //      "name": "Simon Vouet",
+    //      "file": "data_vouet.json"
+    //    }
+    //  ]
+    //},
 
     //Italian Baroque
     {

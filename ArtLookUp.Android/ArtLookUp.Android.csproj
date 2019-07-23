@@ -80,6 +80,17 @@
     <EmbeddedResource Include="Painters_Data\data_parmigianino.json" />
     <EmbeddedResource Include="Painters_Data\data_tintoretto.json" />
     <EmbeddedResource Include="Painters_Data\data_titian.json" />
+    <EmbeddedResource Include="Painters_Data\data_vermeer.json" />
+    <EmbeddedResource Include="Painters_Data\data_hals.json" />
+    <EmbeddedResource Include="Painters_Data\data_rembrandt.json" />
+    <EmbeddedResource Include="Painters_Data\data_rubens.json" />
+    <EmbeddedResource Include="Painters_Data\data_artemisia_gentileschi.json" />
+    <EmbeddedResource Include="Painters_Data\data_caravaggio.json" />
+    <EmbeddedResource Include="Painters_Data\data_velazquez.json" />
+    <EmbeddedResource Include="Painters_Data\data_bosch.json" />
+    <EmbeddedResource Include="Painters_Data\data_pieter_bruegel_the_elder.json" />
+    <EmbeddedResource Include="Painters_Data\data_durer.json" />
+    <EmbeddedResource Include="Painters_Data\data_jan_van_eyck.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
@@ -227,6 +238,282 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\painting_summer_arcimboldo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_bronzino.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_venus_cupid_folly_and_time.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_bronzino.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_durer.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_dyck.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_hals.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_j_brueghel.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_jan_van_eyck.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_leyster.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_caravaggio.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_bosch.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_a_gentileschi.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_p_bruegel.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_parmigianino.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_poussin.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_rubens.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_steen.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_tintoretto.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_titian.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_velazquez.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_vermeer.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_veronese.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_vouet.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_parmigianino.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_mystic_marriage_of_saint_catherine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_madonna_with_the_long_neck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_christ_washing_the_disciples_feet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_miracle_of_the_slave.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_origin_of_the_milky_way.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_tintoretto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_pesaro_madonna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_rape_of_europa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_sacred_and_profane_love.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_diana_and_actaeon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_danae_titian.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_bacchus_and_ariadne.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_assumption_of_the_virgin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_venus_of_urbino.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_titian.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_wedding_at_cana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_veronese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_feast_in_the_house_of_levi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_art_of_painting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_girl_with_a_pearl_earring.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_little_street.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_milkmaid.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_music_lesson.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_view_of_delft.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_woman_holding_a_balance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_vermeer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_rembrandt.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_andromeda_chained_to_the_rocks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_danae_rembrandt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_night_watch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_return_of_the_prodigal_son.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_rembrandt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_anatomy_lesson_of_dr_nicolaes_tulp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_bacchus_caravaggio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_boy_bitten_by_a_lizard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_boy_with_a_basket_of_fruit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_calling_of_st_matthew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_entombment_of_christ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_judith_beheading_holofernes_caravaggio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_supper_at_emmaus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_caravaggio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_danae_gentileschi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_a_gentileschi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_judith_beheading_holofernes_a_gentileschi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_daniel_in_the_lions_den.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_fall_of_phaeton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_judgement_of_paris_rubens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_medusa_rubens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_two_satyrs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_rubens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_rokeby_venus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_portrait_of_juan_de_pareja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_mars_resting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_las_meninas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_velazquez.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_st_john_the_baptist_in_the_wilderness.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_bosch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_garden_of_earthly_delights.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_hunters_in_the_snow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_peasant_wedding.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_tower_of_babel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_p_bruegel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_portrait_of_a_venetian_woman.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_self_portrait_durer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_durer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_arnolfini_portrait.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_madonna_of_chancellor_rolin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_jan_van_eyck.jpg" />
   </ItemGroup>
   <Import Project="..\ArtLookUp\MyExpenZ.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

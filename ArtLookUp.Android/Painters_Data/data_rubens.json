@@ -1,0 +1,36 @@
+﻿{
+  "name": "Peter Paul Rubens",
+  "years": "1577-1640",
+  "location": "Antwerp",
+  "shortinfolink": "Rubens had a fine eye for detail in creating a sumptuous realism in his works to express the human condition faced with daunting tasks and obstacles.",
+  "biolink": "biography_rubens.html",
+  "image": "portrait_rubens.jpg",
+
+  "artworks": [
+    {
+      "name": "Daniel in the Lion's Den",
+      "year": "1613-1615",
+      "picture": "painting_daniel_in_the_lions_den.jpg"
+    },
+    {
+      "name": "The Fall of Phaeton",
+      "year": "1604",
+      "picture": "painting_fall_of_phaeton.jpg"
+    },
+    {
+      "name": "The Judgement of Paris",
+      "year": "1636",
+      "picture": "painting_judgement_of_paris_rubens.jpg"
+    },
+    {
+      "name": "Medusa",
+      "year": "1618",
+      "picture": "painting_medusa_rubens.jpg"
+    },
+    {
+      "name": "Two Satyrs",
+      "year": "1619",
+      "picture": "painting_two_satyrs.jpg"
+    }
+  ]
+}
