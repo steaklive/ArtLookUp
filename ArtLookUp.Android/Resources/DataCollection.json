@@ -12,6 +12,10 @@
           "file": "data_botticelli.json"
         },
         {
+          "name": "Antonio da Correggio",
+          "file": "data_correggio.json"
+        },
+        {
           "name": "Leonardo da Vinci",
           "file": "data_leonardo_da_vinci.json"
         },
@@ -163,6 +167,17 @@
         {
           "name": "Diego Velazquez",
           "file": "data_velazquez.json"
+        }
+      ]
+    },
+
+    //Rococo
+    {
+      "name": "Rococo",
+      "collection": [
+        {
+          "name": "Jean-Honoré Fragonard",
+          "file": "data_fragonard.json"
         }
       ]
     }

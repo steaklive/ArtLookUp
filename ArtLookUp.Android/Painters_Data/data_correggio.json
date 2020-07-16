@@ -1,0 +1,21 @@
+﻿{
+  "name": "Antonio da Correggio",
+  "years": "1489-1534",
+  "location": "Correggio",
+  "shortinfolink": "Correggio was remembered by his contemporaries as a shadowy, melancholic and introverted character, traits possibly conditioned by his birth into a large and poor family.",
+  "biolink": "biography_correggio.html",
+  "image": "portrait_correggio.jpg",
+
+  "artworks": [
+    {
+      "name": "Jupiter and Io",
+      "year": "1533",
+      "picture": "painting_jupiter_and_io.jpg"
+    },
+    {
+      "name": "Leda and the Swan",
+      "year": "1532",
+      "picture": "painting_leda_and_the_swan.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "name": "Jean-Honoré Fragonard",
+  "years": "1590-1649",
+  "location": "Paris",
+  "shortinfolink": "Reputedly one of the most prolific painters of the 18th century, if not of all time, Fragonard had a feverish output of varied subject matter. From portraits to scenes of pastoral, erotic, or domestic appeal he covered a wide range of themes.",
+
+
+
+  "biolink": "biography_fragonard.html",
+  "image": "portrait_fragonard.jpg",
+
+  "artworks": [
+    {
+      "name": "The Bolt",
+      "year": "1777",
+      "picture": "painting_the_bolt.jpg"
+    },
+    {
+      "name": "The Stolen Kiss",
+      "year": "1788",
+      "picture": "painting_the_stolen_kiss.jpg"
+    },
+    {
+      "name": "The Swing",
+      "year": "1767",
+      "picture": "painting_swing.jpg"
+    }
+  ]
+}
