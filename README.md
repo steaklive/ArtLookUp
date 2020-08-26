@@ -4,6 +4,17 @@ ArtLookUp is a collection of painters and paintings gathered in one place. It wa
 
 ![picture](ArtLookUp.Android/Resources/drawable-xxxhdpi/ic_launcher.png)
 
+Styles:
+- Italian Renaissance
+- Northern Renaissance
+- Mannerism
+- Dutch Baroque
+- Flemish Baroque
+- Italian Baroque
+- Spanish Baroque
+- Rococo
+- Neoclassicism
+- ... more to be added!
 
 # Screenshots
 
