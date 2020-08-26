@@ -1,6 +1,6 @@
 # ArtLookUp
 
-ArtLookUp is a collection of painters and paintings gathered in one place. It was created as a practical exercise for learning Xamarin.Forms development.
+ArtLookUp is a collection of painters and paintings gathered in one place. It was created as a practical exercise for learning Xamarin.Forms development and as a sign of my appreciation and love of classical fine art.
 
 ![picture](ArtLookUp.Android/Resources/drawable-xxxhdpi/ic_launcher.png)
 
