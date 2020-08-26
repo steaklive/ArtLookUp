@@ -3,7 +3,9 @@
 ArtLookUp is a collection of painters and paintings gathered in one place. It was created as a practical exercise for learning Xamarin.Forms development.
 
 ![picture](ArtLookUp.Android/Resources/drawable-xxxhdpi/ic_launcher.png)
-Trello board: https://trello.com/b/5KhuTrJW/artlookup
+
+
+# Screenshots
 
 <p align="cener">
   <img width="160" height="320" src="https://i.ibb.co/yqLzFQm/photo6039836956327784408.jpg">
