@@ -4,7 +4,7 @@ ArtLookUp is a collection of painters and paintings gathered in one place. It wa
 
 ![picture](ArtLookUp.Android/Resources/drawable-xxxhdpi/ic_launcher.png)
 
-Styles:
+Art movements:
 - Italian Renaissance
 - Northern Renaissance
 - Mannerism
