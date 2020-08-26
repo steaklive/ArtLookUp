@@ -1,0 +1,44 @@
+﻿{
+  "name": "Jacques-Louis David",
+  "years": "1748-1825",
+  "location": "Paris",
+  "shortinfolink": "David used his art to sway political opinion, curry favor with government regimes, and fuel uprisings. His direct political involvement brought history painting in contact with current affairs. This immediacy would inspire later artists to represent the contemporary world.",
+
+
+
+  "biolink": "biography_jacques_louis_david.html",
+  "image": "portrait_jacques_louis_david.jpg",
+
+  "artworks": [
+    {
+      "name": "The Death of Marat",
+      "year": "1793",
+      "picture": "painting_death_of_marat.jpg"
+    },
+    {
+      "name": "The Death of Socrates",
+      "year": "1777-1787",
+      "picture": "painting_death_of_socrates.jpg"
+    },
+    {
+      "name": "The Intervention of the Sabine Women",
+      "year": "1796-1799",
+      "picture": "painting_intervention_of_sabine_women.jpg"
+    },
+    {
+      "name": "Mars Being Disarmed by Venus",
+      "year": "1822-1825",
+      "picture": "painting_mars_being_disarmed_by_venus.jpg"
+    },
+    {
+      "name": "Napoleon Crossing the Alps",
+      "year": "1801-1805",
+      "picture": "painting_napoleon_crossing_the_alps.jpg"
+    },
+    {
+      "name": "Oath of the Horatii",
+      "year": "1784",
+      "picture": "painting_oath_of_the_horatii.jpg"
+    }
+  ]
+}

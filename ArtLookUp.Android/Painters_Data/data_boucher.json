@@ -1,0 +1,29 @@
+﻿{
+  "name": "François Boucher",
+  "years": "1703-1770",
+  "location": "Paris",
+  "shortinfolink": "Boucher is deeply associated with the Rococo style. Rococo is a florid, flowing, graceful style, which is not limited to painting, but also is associated with architecture, sculpture, music, opera, theater and more. ",
+
+
+
+  "biolink": "biography_boucher.html",
+  "image": "portrait_boucher.jpg",
+
+  "artworks": [
+    {
+      "name": "Diana after the bath",
+      "year": "1742",
+      "picture": "painting_diana_after_the_bath.jpg"
+    },
+    {
+      "name": "Hercules and Omphale",
+      "year": "1732-1734",
+      "picture": "painting_hercules_and_omphale.jpg"
+    },
+    {
+      "name": "The Triumph of Venus",
+      "year": "1740",
+      "picture": "painting_triumph_of_venus_boucher.jpg"
+    }
+  ]
+}

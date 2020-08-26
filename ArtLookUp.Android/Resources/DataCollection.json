@@ -176,13 +176,30 @@
       "name": "Rococo",
       "collection": [
         {
+          "name": "François Boucher",
+          "file": "data_boucher.json"
+        },
+        {
           "name": "Jean-Honoré Fragonard",
           "file": "data_fragonard.json"
+        },
+        {
+          "name": "Jean-Antoine Watteau",
+          "file": "data_watteau.json"
+        }
+      ]
+    },
+
+    //Neoclassicism
+    {
+      "name": "Neoclassicism",
+      "collection": [
+        {
+          "name": "Jacques-Louis David",
+          "file": "data_jacques_louis_david.json"
         }
       ]
     }
-
-
 
   ]
 }

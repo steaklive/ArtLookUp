@@ -1,0 +1,24 @@
+﻿{
+  "name": "Jean-Antoine Watteau",
+  "years": "1684-1721",
+  "location": "Valenciennes",
+  "shortinfolink": "Watteau's attraction to Rococo's curving lines and decorative nature became central to his later work. As his career progressed the artist combined his love for the theater and his fascination of the Rococo styling and design and developed a truly unique style of painting with ornate elegance that gained him critical attention.",
+
+
+
+  "biolink": "biography_watteau.html",
+  "image": "portrait_watteau.jpg",
+
+  "artworks": [
+    {
+      "name": "The Embarkation for Cythera",
+      "year": "1717",
+      "picture": "painting_embarkation_for_cythera.jpg"
+    },
+    {
+      "name": "Pierrot",
+      "year": "1719",
+      "picture": "painting_pierrot_watteau.jpg"
+    }
+  ]
+}

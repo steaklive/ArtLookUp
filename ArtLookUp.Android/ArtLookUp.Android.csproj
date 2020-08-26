@@ -102,6 +102,9 @@
     <EmbeddedResource Include="Painters_Data\data_jan_van_eyck.json" />
     <EmbeddedResource Include="Painters_Data\data_correggio.json" />
     <EmbeddedResource Include="Painters_Data\data_fragonard.json" />
+    <EmbeddedResource Include="Painters_Data\data_boucher.json" />
+    <EmbeddedResource Include="Painters_Data\data_watteau.json" />
+    <EmbeddedResource Include="Painters_Data\data_jacques_louis_david.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
@@ -591,6 +594,57 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\portrait_fragonard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_boucher.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_diana_after_the_bath.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_hercules_and_omphale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_triumph_of_venus_boucher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_boucher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_watteau.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_embarkation_for_cythera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_pierrot_watteau.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_watteau.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\biographies\biography_jacques_louis_david.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_death_of_marat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_death_of_socrates.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_intervention_of_sabine_women.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_mars_being_disarmed_by_venus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_napoleon_crossing_the_alps.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\painting_oath_of_the_horatii.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\portrait_jacques_louis_david.jpg" />
   </ItemGroup>
   <Import Project="..\ArtLookUp\MyExpenZ.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
